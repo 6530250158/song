@@ -2,7 +2,7 @@
 
 ## ผลการรันแอป
 
-สามารถดูวิดีโอผลการรันได้ที่นี้เลย กดคลิกเลย
+สามารถดูวิดีโอผลการรันได้ที่นี้เลย กดคลิกเลย หรือสามารถโหลดได้จาก assets/song.mp4
 
 [![Song](/assets/image/01.png)](https://youtube.com/shorts/-_aYMLPkVjk?feature=share "Songs App Test CRUD")
 
