@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "170753212864",
+    "project_id": "pichaya-soising",
+    "storage_bucket": "pichaya-soising.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170753212864:android:bfdcb88e10826c7e838825",
+        "android_client_info": {
+          "package_name": "com.example.song_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6OoAYhil395t9s4eW1HtZnH2f0fGtzBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170753212864:android:fc5aa4ff7250a9fe838825",
+        "android_client_info": {
+          "package_name": "com.example.song_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6OoAYhil395t9s4eW1HtZnH2f0fGtzBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
